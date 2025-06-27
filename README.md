@@ -12,7 +12,8 @@ Built using HTML, CSS, and JavaScript, it's a perfect beginner-friendly project 
 🧰 Technologies Used
 HTML5.
 CSS.
-JavaScript. 
+JavaScript.
+
 🚀 Demo
 Try it live: https://flavour-glide-recipe-app.vercel.app/
 
