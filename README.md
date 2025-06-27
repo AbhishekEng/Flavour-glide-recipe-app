@@ -10,7 +10,7 @@ Built using HTML, CSS, and JavaScript, it's a perfect beginner-friendly project 
 - 📱 Responsive Design: Works well on desktop and mobile devices.
 
 🧰 Technologies Used
-HTML5.
+HTML.
 CSS.
 JavaScript.
 
