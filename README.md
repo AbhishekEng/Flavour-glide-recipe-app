@@ -14,4 +14,5 @@ HTML5.
 CSS.
 JavaScript. 
 🚀 Demo
-Try it live:https://flavour-glide-recipe-app.vercel.app/
+Try it live: https://flavour-glide-recipe-app.vercel.app/
+![image alt](https://github.com/AbhishekEng/Flavour-glide-recipe-app/blob/c7f8606607756ba9182cc996a5dcbb105882bfee/Screenshot%20flavour%20glide%20app.png)
